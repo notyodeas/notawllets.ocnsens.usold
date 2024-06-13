@@ -1,0 +1,17 @@
+{
+  "routes": [
+    "/",
+    "/aha",
+    "/edfaults",
+    "/edfaults/artnsaction",
+    "/edfaults/artnsaction/alcimeds",
+    "/edfaults/artnsaction/anticeeds",
+    "/edfaults/artnsaction/erceiveds",
+    "/edfaults/artnsaction/opols",
+    "/edfaults/artnsaction/opols/eritslls",
+    "/edfaults/artnsaction/stoledstfacentfutures-not-edpth",
+    "/edfaults/attackeds",
+    "/edfaults/notedpths-orfm-usbmits",
+    "/otos-xeahcnges"
+  ]
+}
